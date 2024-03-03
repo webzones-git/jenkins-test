@@ -1,1 +1,1 @@
-print("Welcome to Jenkins test")
+print("Welcome to Jenkins tests")
